@@ -36,7 +36,7 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,github"/>
 
 </p>
 
@@ -66,6 +66,7 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast
 - CNN
 - ANN
 - PCA
+- NLP
 - Model Evaluation
 
 ---
@@ -147,7 +148,7 @@ Deep Learning model that detects pneumonia from Chest X-ray images.
 
 <p>
 
-<a href="www.linkedin.com/in/sushant-thite-57267a241">
+<a href="https://www.linkedin.com/in/sushant-thite-57267a241/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
