@@ -78,8 +78,8 @@ Machine learning solution for detecting fraudulent credit card transactions usin
 
 ---
 
-### 📊 Telecom Domain Analysis using SQL & Power BI
-Interactive dashboard built using SQL and Power BI for telecom business insights.
+### 🫁 Pneumonia Detection using CNN
+Deep Learning model that detects pneumonia from Chest X-ray images.
 
 ---
 
@@ -118,30 +118,11 @@ AI-powered resume parsing and candidate ranking system for recruiters.
 
 ---
 
-### 🫁 Pneumonia Detection using CNN
-Deep Learning model that detects pneumonia from Chest X-ray images.
+### 📊 Telecom Domain Analysis using SQL & Power BI
+Interactive dashboard built using SQL and Power BI for telecom business insights.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imsush26&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsush26&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=imsush26&theme=tokyonight"/>
-
-</p>
-
----
 
 
 # 📫 Connect With Me
