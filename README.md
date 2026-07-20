@@ -20,11 +20,9 @@ Data Scientist • Data Analyst • Machine Learning Enthusiast
 
 📊 Passionate about solving real-world business problems using data.
 
-💻 Skilled in Data Analytics, Machine Learning, SQL, Power BI and Python.
+💻 Skilled in Data Analytics, Machine Learning, SQL, Power BI, Tableau and Python.
 
 🤖 Interested in AI, Deep Learning, Business Intelligence, NLP and Predictive Analytics.
-
-🌱 Currently learning **SAP Cloud Computing**.
 
 🏆 1st Prize Winner – Thunder Bytes Hackathon
 
